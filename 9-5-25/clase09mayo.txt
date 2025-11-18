@@ -1,0 +1,19 @@
+
+
+- Consola: Tareas y definiciones
+
+- Vinculación de JavaScript con Html
+
+- Ventanas en JavaScript  y definiciones (3)
+
+1. Crear un archivo .html 
+2. Vincular el archivo JS a el html creado
+3. Utilizamos el elemento sript:src antes del
+cierre de la etiqueta body
+4. Ventana de alerta: Es una ventana nativa
+del navegador que indica un aviso, anuncio, noticia
+básica al usuario
+5. Ventana del promt: Esta ventana se utiliza para
+que el usuario pueda ingresar datos ara que sean 
+utilizados dentro de la aplicación
+6. Tarea .... devuelve algo
